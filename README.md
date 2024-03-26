@@ -1,1 +1,4 @@
-# mi-primer-repositorio-en-equipo
+# Trabajo colaborativo
+
+Andrea Matteucci
+Agostina Chiara
