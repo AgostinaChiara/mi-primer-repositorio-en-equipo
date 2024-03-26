@@ -1,3 +1,1 @@
-# Trabajo colaborativo
-
-Agostina Chiara
+# mi-primer-repositorio-en-equipo
